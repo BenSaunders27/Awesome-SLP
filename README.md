@@ -6,6 +6,11 @@ A list of awesome work on Sign Language Production (SLP).
 Adversarial Training for Multi-Channel Sign Language Production. Saunders, Camgoz, Bowden. BMVC20 - https://arxiv.org/abs/2008.12405
 
 
+SignSynth : Data-Driven Sign Language Video Generation. Stoll, Hadfield, Bowden. ACV Workshop 20 - https://epubs.surrey.ac.uk/858501/
+
+Can Everybody Sign Now ? Exploring Sign Language Video Generation from 2D Poses. Ventura, Duarta, Giro-i-Nieto. SLRTP Workshop 20. -https://slrtp.com/papers/extended_abstracts/SLRTP.EA.14.018.paper.pdf
+
+
 Progressive Transformers for End-to-End Sign Language Production. Saunders, Camgoz, Bowden. ECCV20 - http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560664.pdf
 
 
