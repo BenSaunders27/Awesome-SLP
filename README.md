@@ -1,5 +1,9 @@
 # Awesome-SLP
-A list of awesome work on Sign Language Production (SLP). 
+A list of awesome work on Sign Language Production (SLP). It contains an extensive review of the field of SLP, with all relevant publications.
+
+I am gathering these papers (Currently 9 papers) as literature for my PhD, and thought others may be interested. If you have any updates, please feel free to contribute or email me at b.saunders@surrey.ac.uk.
+
+These are ordered by year, and I try to find the appropriate conference for each.
 
 # 2020
 
