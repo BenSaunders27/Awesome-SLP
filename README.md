@@ -28,6 +28,7 @@ Neural Sign Language Synthesis: Words Are Our Glosses. Zelinka, Kanis. WACV20 - 
 
 NN-Based Czech Sign Language Synthesis. Zelinka, Kanis, Salajka. SPECOM19 - https://link.springer.com/chapter/10.1007/978-3-030-26061-3_57
 
+Cross-modal Neural Sign Language Translation. Duarte. ACM International Conference on Multimedia - https://imatge.upc.edu/web/sites/default/files/pub/cDuarteb.pdf
 
 # 2018
 
