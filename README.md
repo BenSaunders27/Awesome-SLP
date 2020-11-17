@@ -7,8 +7,7 @@ These are ordered by year, and I try to find the appropriate conference for each
 
 # 2020
 
-Adversarial Training for Multi-Channel Sign Language Production. Saunders, Camgoz, Bowden. BMVC20 - https://arxiv.org/abs/2008.12405
-
+Adversarial Training for Multi-Channel Sign Language Production. Saunders, Camgoz, Bowden. BMVC20 - https://www.bmvc2020-conference.com/assets/papers/0223.pdf
 
 SignSynth : Data-Driven Sign Language Video Generation. Stoll, Hadfield, Bowden. ACV Workshop 20 - https://epubs.surrey.ac.uk/858501/
 
@@ -28,7 +27,6 @@ Neural Sign Language Synthesis: Words Are Our Glosses. Zelinka, Kanis. WACV20 - 
 # 2019
 
 NN-Based Czech Sign Language Synthesis. Zelinka, Kanis, Salajka. SPECOM19 - https://link.springer.com/chapter/10.1007/978-3-030-26061-3_57
-
 
 
 # 2018
