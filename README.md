@@ -7,6 +7,8 @@ These are ordered by year, and I try to find the appropriate conference for each
 
 # 2020
 
+Deep Gesture Video Generation With Learning on Regions of Interest. *Cui, Cao, Pan, Zhang, Wang*. IEEE Transactions on Multimedia 2020 - https://ieeexplore.ieee.org/document/8936484/media#media
+
 Machine Translation from Spoken Language to Sign Language using Pre-trained Language Model as Encoder. *Miyazaki, Morita, Sano*. LREC2020 - https://www.aclweb.org/anthology/2020.signlang-1.23.pdf
 
 Adversarial Training for Multi-Channel Sign Language Production. *Saunders, Camgoz, Bowden*. BMVC20 - https://www.bmvc2020-conference.com/assets/papers/0223.pdf
