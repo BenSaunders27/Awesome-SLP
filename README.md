@@ -5,6 +5,11 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 These are ordered by year, and I try to find the appropriate conference for each.
 
+# 2021
+
+Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Networks. *Saunders, Camgoz, Bowden*. IJCV2021 -  https://arxiv.org/abs/2103.06982
+
+
 # 2020
 
 Machine Translation from Spoken Language to Sign Language using Pre-trained Language Model as Encoder. *Miyazaki, Morita, Sano*. LREC2020 - https://www.aclweb.org/anthology/2020.signlang-1.23.pdf
@@ -19,7 +24,7 @@ Progressive Transformers for End-to-End Sign Language Production. *Saunders, Cam
 
 Skeleton-based Chinese Sign Language Recognition and Generation for Bidirectional Communication between Deaf and Hearing People. *Xiao, Qin, Yin*. Neural Networks 20 - https://www.sciencedirect.com/science/article/abs/pii/S089360802030040X
 
-Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. *Stoll, Camgoz, Hadfield, Bowden*. IJCV20 - https://link.springer.com/article/10.1007/s11263-019-01281-2
+Text2Sign: Towards Sign Language Production Using Neural Machine Translation and Generative Adversarial Networks. *Stoll, Camgoz, Hadfield, Bowden*. IJCV2020 - https://link.springer.com/article/10.1007/s11263-019-01281-2
 
 Neural Sign Language Synthesis: Words Are Our Glosses. *Zelinka, Kanis*. WACV20 - https://openaccess.thecvf.com/content_WACV_2020/papers/Zelinka_Neural_Sign_Language_Synthesis_Words_Are_Our_Glosses_WACV_2020_paper.pdf
 
