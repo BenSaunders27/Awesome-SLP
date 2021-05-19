@@ -44,3 +44,7 @@ Cross-modal Neural Sign Language Translation. *Duarte*. ACM International Confer
 
 Sign Language Production using Neural Machine Translation and Generative Adversarial Networks. *Stoll, Camgoz, Hadfield, Bowden*. BMVC18 - http://bmvc2018.org/contents/papers/0906.pdf
 
+
+# Overviews
+
+Sign Language Production: A Review. *Rastgoo, Kiani, Escalera, Sabokrou*. ArXiv - https://arxiv.org/abs/2103.15910
