@@ -7,10 +7,13 @@ These are ordered by year, and I try to find the appropriate conference for each
 
 # 2021
 
-Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Networks. *Saunders, Camgoz, Bowden*. IJCV2021 -  https://arxiv.org/abs/2103.06982
+Continuous 3D Multi-Channel Sign Language Production via Progressive Transformers and Mixture Density Networks. *Saunders, Camgoz, Bowden*. IJCV2021 -  https://link.springer.com/content/pdf/10.1007/s11263-021-01457-9.pdf
 
+Pose-Guided Sign Language Video GAN with Dynamic Lambda. *Kissel, Kümmel, Ritter, Hildebrand*. ArXiv - https://arxiv.org/abs/2105.02742
 
 # 2020
+
+Everybody Sign Now: Translating Spoken Language to Photo Realistic Sign Language Video. *Saunders, Camgoz, Bowden*. ArXiv -  https://arxiv.org/abs/2011.09846
 
 Machine Translation from Spoken Language to Sign Language using Pre-trained Language Model as Encoder. *Miyazaki, Morita, Sano*. LREC2020 - https://www.aclweb.org/anthology/2020.signlang-1.23.pdf
 
