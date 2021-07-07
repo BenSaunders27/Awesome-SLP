@@ -48,3 +48,5 @@ Sign Language Production using Neural Machine Translation and Generative Adversa
 # Overviews
 
 Sign Language Production: A Review. *Rastgoo, Kiani, Escalera, Sabokrou*. ArXiv - https://arxiv.org/abs/2103.15910
+
+Machine Translation from Text to Sign Language: A Systematic Review. *Navroz Kaur Kahlon1 Williamjeet Singh*. Universal Access in the Information Society - https://link.springer.com/content/pdf/10.1007/s10209-021-00823-1.pdf
