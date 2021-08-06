@@ -7,7 +7,7 @@ These are ordered by year, and I try to find the appropriate conference for each
 
 # 2021
 
-Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives. *Saunders, Camgoz, Bowden*. ICCV21
+Mixed SIGNals: Sign Language Production via a Mixture of Motion Primitives. *Saunders, Camgoz, Bowden*. ICCV21 - https://arxiv.org/abs/2107.11317
 
 ANONYSIGN: Novel Human Appearance Synthesis for Sign Language Video Anonymisation. *Saunders, Camgoz, Bowden*. FG2021 - https://arxiv.org/abs/2107.10685
 
