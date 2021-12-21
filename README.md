@@ -7,6 +7,8 @@ These are ordered by year, and I try to find the appropriate conference for each
 
 # 2021
 
+Skeletal Graph Self-Attention: Embedding a Skeleton Inductive Bias into Sign Language Production. *Saunders, Camgoz, Bowden*. ArXiv - https://arxiv.org/pdf/2112.05277.pdf
+
 GAN Based Indian Sign Language Synthesis. *Krishna, Ukey, Babu*. ICVGIP'21 - https://dl.acm.org/doi/pdf/10.1145/3490035.3490301
 
 Non-Autoregressive Sign Language Production with Gaussian Space. *Hwang, Kim, Park*. BMVC 2021 - https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf
