@@ -7,6 +7,8 @@ These are ordered by year, and I try to find the appropriate conference for each
 
 # 2021
 
+GAN Based Indian Sign Language Synthesis. *Krishna, Ukey, Babu*. ICVGIP'21 - https://dl.acm.org/doi/pdf/10.1145/3490035.3490301
+
 Non-Autoregressive Sign Language Production with Gaussian Space. *Hwang, Kim, Park*. BMVC 2021 - https://www.bmvc2021-virtualconference.com/assets/papers/1102.pdf
 
 Towards Fast and High-Quality Sign Language Production. *Huang, Pan, Zhao, Tian*. ACM 2021 - https://www.semanticscholar.org/paper/Towards-Fast-and-High-Quality-Sign-Language-Huang-Pan/481f18278fc707dd7cf8254da1e68b96f6913326?utm_source=alert_email&utm_content=AuthorCitation&utm_campaign=AlertEmails_DAILY&utm_term=AuthorCitation&email_index=0-0-0&utm_medium=2754082
