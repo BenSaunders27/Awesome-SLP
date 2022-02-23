@@ -5,6 +5,11 @@ I am gathering these papers as literature for my PhD, and thought others may be 
 
 These are ordered by year, and I try to find the appropriate conference for each.
 
+
+# 2022
+
+Including Facial Expressions in Contextual Embeddings for Sign Language Generation. *Viegas, Inan, Quandt, Alikhani*. ArXiv - https://arxiv.org/pdf/2202.05383.pdf
+
 # 2021
 
 Skeletal Graph Self-Attention: Embedding a Skeleton Inductive Bias into Sign Language Production. *Saunders, Camgoz, Bowden*. ArXiv - https://arxiv.org/pdf/2112.05277.pdf
