@@ -8,6 +8,8 @@ These are ordered by year, and I try to find the appropriate conference for each
 
 # 2022
 
+Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production. *Saunders, Camgoz, Bowden*. CVPR 22 - https://arxiv.org/pdf/2203.15354.pdf
+
 Modeling Intensification for Sign Language Generation: A Computational Approach. *Inan, Zhong, Hassan, Quandt, Alikhani*. ArXiv - https://arxiv.org/pdf/2203.09679.pdf
 
 Including Facial Expressions in Contextual Embeddings for Sign Language Generation. *Viegas, Inan, Quandt, Alikhani*. ArXiv - https://arxiv.org/pdf/2202.05383.pdf
