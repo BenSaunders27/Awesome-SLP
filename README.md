@@ -8,6 +8,14 @@ These are ordered by year, and I try to find the appropriate conference for each
 
 # 2022
 
+Changing the Representation: Examining Language Representation for Neural Sign Language Production. *Walsh, Saunders, Bowden* SLTAT 22 - https://openresearch.surrey.ac.uk/esploro/outputs/conferencePaper/Changing-the-Representation-Examining-Language-Representation/99652965902346
+
+Jointly Harnessing Prior Structures and Temporal Consistency for Sign Language Video Generation. *Suo, Zheng, Wang, Zhang, Yang*. https://arxiv.org/pdf/2207.03714.pdf
+
+Towards Automated Sign Language Production: A Pipeline for Creating Inclusive Virtual Humans. *Bernhard, Nunnari, Unger et al*. PETRA 22 - https://dl.acm.org/doi/abs/10.1145/3529190.3529202
+
+Cartoonized Anonymization of Sign Language Videos. *Tze, Filntisis, Roussos, Maragos*. IVMSP 22 - https://ieeexplore.ieee.org/abstract/document/9816293
+
 Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production. *Saunders, Camgoz, Bowden*. CVPR 22 - https://arxiv.org/pdf/2203.15354.pdf
 
 Modeling Intensification for Sign Language Generation: A Computational Approach. *Inan, Zhong, Hassan, Quandt, Alikhani*. ArXiv - https://arxiv.org/pdf/2203.09679.pdf
