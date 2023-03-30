@@ -18,7 +18,7 @@ Cartoonized Anonymization of Sign Language Videos. *Tze, Filntisis, Roussos, Mar
 
 Signing at Scale: Learning to Co-Articulate Signs for Large-Scale Photo-Realistic Sign Language Production. *Saunders, Camgoz, Bowden*. CVPR 22 - https://arxiv.org/pdf/2203.15354.pdf
 
-Modeling Intensification for Sign Language Generation: A Computational Approach. *Inan, Zhong, Hassan, Quandt, Alikhani*. ArXiv - https://arxiv.org/pdf/2203.09679.pdf
+Modeling Intensification for Sign Language Generation: A Computational Approach. *Inan, Zhong, Hassan, Quandt, Alikhani*. ArXiv - https://arxiv.org/pdf/2203.09679.pdf [(code)](https://github.com/Merterm/Modeling-Intensification-for-SLG)
 
 Including Facial Expressions in Contextual Embeddings for Sign Language Generation. *Viegas, Inan, Quandt, Alikhani*. ArXiv - https://arxiv.org/pdf/2202.05383.pdf
 
@@ -48,11 +48,11 @@ Machine Translation from Spoken Language to Sign Language using Pre-trained Lang
 
 Adversarial Training for Multi-Channel Sign Language Production. *Saunders, Camgoz, Bowden*. BMVC20 - https://www.bmvc2020-conference.com/assets/papers/0223.pdf
 
-SignSynth : Data-Driven Sign Language Video Generation. *Stoll, Hadfield, Bowden*. ACV Workshop 20 - https://epubs.surrey.ac.uk/858501/
+SignSynth : Data-Driven Sign Language Video Generation. *Stoll, Hadfield, Bowden*. ACV Workshop 20 - https://epubs.surrey.ac.uk/858501/ [(code)](https://github.com/stephstoll91/SignSynth)
 
 Can Everybody Sign Now ? Exploring Sign Language Video Generation from 2D Poses. *Ventura, Duarta, Giro-i-Nieto*. SLRTP Workshop 20. -https://slrtp.com/papers/extended_abstracts/SLRTP.EA.14.018.paper.pdf
 
-Progressive Transformers for End-to-End Sign Language Production. *Saunders, Camgoz, Bowden*. ECCV20 - http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560664.pdf
+Progressive Transformers for End-to-End Sign Language Production. *Saunders, Camgoz, Bowden*. ECCV20 - http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560664.pdf [(code)](https://github.com/BenSaunders27/ProgressiveTransformersSLP)
 
 Skeleton-based Chinese Sign Language Recognition and Generation for Bidirectional Communication between Deaf and Hearing People. *Xiao, Qin, Yin*. Neural Networks 20 - https://www.sciencedirect.com/science/article/abs/pii/S089360802030040X
 
